@@ -1,0 +1,13 @@
+*{
+    background-color: aqua;
+    z-index: 1;
+}
+
+nav{
+    padding: 20px;
+    
+    width: 97.5%;
+    background-color: red;
+    z-index: 0;
+    box-shadow: 10cqh;
+}

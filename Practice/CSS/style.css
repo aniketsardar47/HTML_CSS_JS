@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    /* font-size: 20px; */
+}
+
+/* #box{
+    height: 100%;
+    width: 100%;
+    background-color: hotpink;
+    padding: 10px;
+}
+
+.text{
+    color: wheat;
+    background-color: red;
+} */
+
+#test{
+    /* height: 200px;
+    width: 200px; */
+
+    /* height: 50%;
+    width: 80%;  */
+
+    /* height: 10vh;
+    width: 10vw; */
+
+    /* font-size: 216px;
+    width: 2em;
+    height: 2em; */
+
+    /* height: 2rem;
+    width: 2rem;  */
+
+    /* max-width: 500px;
+    min-width: 200px;
+    width: 350px;
+    height: 100px; */
+
+    background-color: hotpink;
+}
+
+#box{
+    /* background-color: hotpink;
+    width: 90%;
+    height: 90%; */
+
+    /* Padding */
+    /* padding: 20px; */
+
+    /* MArgin */
+    /* margin: 20px 10px; */
+
+    /* border */
+    /* border: 2px solid black;
+    border-radius: 0px 20px; */
+
+    /* Display */
+    /* display: flex inline / block / inline-block; */
+
+}
+
+
+/* #car1{
+    width: 300px;
+    height: 200px;
+    background: hotpink;
+}
+
+#car2{
+    width: 200px;
+    height: 180px;
+    background: olivedrab;
+    position: absolute;
+}
+
+#car3{
+    width: 300px;
+    height: 160px;
+    background: navajowhite;
+} */
+
+/* #box{
+    width: 500px;
+    height: 500px;
+    background: hotpink;
+    position: relative;
+}
+
+#cube{
+    width: 100px;
+    height: 100px;
+    background-color: olivedrab;
+    position: absolute;
+    left: 50%;
+} */
+
+/* #back{
+    width: 500px;
+    height: 500px;
+
+    /* image */
+    /* background: url("./Dom.jpg");
+    background-size: cover;
+    background-position: center; */
+
+    /* Lineargradient */
+    /* background: linear-gradient(to left bottom, hotpink, olivedrab); */
+/* }  */
+
+/* #panel{
+    margin: 20px;
+    width: 500px;
+    height: 500px;
+    background: gold;
+    display: flex;
+    justify-content: center;
+}
+
+#one{
+    width: 100px;
+    height: 100px;
+    background: hotpink;
+}
+
+#two{
+    width: 100px;
+    height: 100px;
+    background: olivedrab;
+}
+
+#three{
+    width: 100px;
+    height: 100px;
+    background: gray;
+} */
+
+/* p::selection{
+    color: transparent;
+    visibility: hidden;
+} */
+
+/* p{
+    font-size: 12px;
+} */
+/* 
+p:hover{
+    font-size: 50px;
+} */
+
+/* button:active{
+    background: red;
+}
+
+input:focus{
+    background: red;
+} */
+
+P:nth-child(2n){
+    color: rgb(0,0,0);
+}
