@@ -7,7 +7,7 @@
 ## 📂 Folder Structure
 
 - `Projects/obys_agency/` – Advanced creative agency website clone for layout, animation, and loader experimentation.
-- `Projects/portfolio_loader/` – Smooth GSAP + CSS loader for portfolio sites.
+- `Projects/obys_agency/` – Smooth GSAP + CSS loader.
 - Other small projects demonstrating DOM, animation, and responsiveness.
 
 ---
@@ -16,9 +16,9 @@
 
 ### Obys Agency Clone
 
-| Hero Section | Loader Animation | Projects Grid |
+| Loader Section | Hero Animation | Projects Grid |
 |:------------:|:----------------:|:-------------:|
-| ![Hero](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency1.png) | ![Loader](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency2.png) | ![Grid](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency3.png) |
+| ![Hero](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency1.png) | ![Loader](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency2.png) | ![Grid](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency4.png) |
 
 
 ---
