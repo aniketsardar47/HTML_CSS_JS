@@ -18,7 +18,7 @@
 
 | Loader Section | Hero Animation | Projects Grid |
 |:------------:|:----------------:|:-------------:|
-| ![Hero](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency1.png) | ![Loader](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency2.png) | ![Grid](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency4.png) |
+| ![Hero](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency1.png) | ![Loader](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency2.png) | ![Grid](https://raw.githubusercontent.com/aniketsardar47/HTML_CSS_JS/main/Projects/obys_agency/img/obys_agency5.png) |
 
 
 ---
